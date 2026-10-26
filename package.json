@@ -15,7 +15,7 @@
   "author": "Osmer Eduardo Ruiz Mateus",
   "license": "ISC",
   "devDependencies": {
-    "@apollo/client": "^3.6.9",
+    "@apollo/client": "^4.3.5",
     "@babel/core": "^7.19.0",
     "@babel/preset-env": "^7.19.0",
     "@babel/preset-react": "^7.18.6",
